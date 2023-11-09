@@ -34,7 +34,7 @@ Biotechnologist.
 - Drawing
 - Treavelling
 
-## Click this link to see my resume
-[Resume](https://drive.google.com/file/d/14F2gC_SGjkLDzzXeM0GDevj-zGyVdK3g/view?usp=sharing) 
+## Click here to see my [resume](https://drive.google.com/file/d/14F2gC_SGjkLDzzXeM0GDevj-zGyVdK3g/view?usp=sharing) 
+
 ### Contact details
 - Email - sasikalasathsarani47@gmail.com
